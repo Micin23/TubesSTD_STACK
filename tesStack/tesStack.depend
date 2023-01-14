@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1673611855 source:c:\users\gazell arrafi\documents\strukturdata\tesstack\main.cpp
+	"stack.h"
+
+1673611215 c:\users\gazell arrafi\documents\strukturdata\tesstack\stack.h
+	<iostream>
+
+1673665171 source:c:\users\gazell arrafi\documents\strukturdata\tesstack\stack.cpp
+	"stack.h"
+	"string"
+
